@@ -30,3 +30,6 @@ My name is **Vladislav** and I am 21 years old. I'm a developer who enough knows
 ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+[![](https://visitcount.itsvg.in/api?id=ksodex&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
